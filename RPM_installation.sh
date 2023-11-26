@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-
 echo "etcd will be installed:"
 sleep 3
 
